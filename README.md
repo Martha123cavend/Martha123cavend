@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Martha123cavend
+- 👋 Hi, am Martha Richard Masika
 - 👀 I’m interested in c and c++ programing and developing games
 - 🌱 I’m currently learning c programing
 - 💞️ I’m looking to collaborate on making games
